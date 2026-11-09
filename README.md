@@ -220,7 +220,7 @@ Que ce soit pour une opportunité d'ingénierie logicielle, un projet collaborat
 
   [![GitHub](https://img.shields.io/badge/GitHub-marzouck13-181717?style=for-the-badge&logo=github)](https://github.com/marzouck13)
   
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Marzouck_Affo-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/marzouck-affo/)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Marzouck_Affo-0A66C2?style=for-the-badge&logo=linkedin)]([https://www.linkedin.com/in/marzouck-affo/](https://www.linkedin.com/in/marzouck-affo-2b9a04401/?isSelfProfile=false))
   
   <br/>
   
